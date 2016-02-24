@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="7605b794-4ef1-437c-a3f6-3dc105f3c4ff" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/qw4wer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lottery_demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/com.qw4wer.utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/userscript/bilibili_live_tools.js" />
+    </list>
+    <ignored path="qw4wer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="qw4wer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bili.live.full.screen.danmu.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/bili.live.full.screen.danmu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3909465">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="闭包测试1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/闭包测试1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.392857">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lottery_demo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/lottery_demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-26.464285">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="测试avalon动态切面.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/测试avalon动态切面.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.25">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="com.qw4wer.utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/com.qw4wer.utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bilibili_live_tools.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userscript/bilibili_live_tools.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+                <marker date="1456306336842" expanded="true" signature="772:793" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tmp/tmp1_dynamicExecScript.js" />
+        <option value="$PROJECT_DIR$/userscript/remove_bilibili_live_gift_message.js" />
+        <option value="$PROJECT_DIR$/tmp/bili.live.css" />
+        <option value="E:/360极速浏览器下载/live-room.bundle.min.js" />
+        <option value="$PROJECT_DIR$/tmp/1.js" />
+        <option value="$PROJECT_DIR$/tmp/bilibili_live_tools_options.html" />
+        <option value="$PROJECT_DIR$/html/t1.html" />
+        <option value="$PROJECT_DIR$/telefile/bilib_json_to_script.js" />
+        <option value="$PROJECT_DIR$/telefile/souce.js" />
+        <option value="static.hdslb.com/live-static/live-room/live-room.bundle.min.js" />
+        <option value="$PROJECT_DIR$/telefile/live-room.bundle.js" />
+        <option value="$PROJECT_DIR$/html/t2.html" />
+        <option value="$PROJECT_DIR$/html/t3.html" />
+        <option value="$PROJECT_DIR$/html/bili.live.full.screnn.danmu.html" />
+        <option value="$PROJECT_DIR$/userscript/exhentai.js" />
+        <option value="$PROJECT_DIR$/html/bili.live.full.screen.danmu.html" />
+        <option value="$PROJECT_DIR$/html/闭包测试1.html" />
+        <option value="$PROJECT_DIR$/telefile/avalon.js" />
+        <option value="static.hdslb.com/live-static/live-room/live-room.bundle.js" />
+        <option value="$PROJECT_DIR$/temp/tmp1.js" />
+        <option value="$PROJECT_DIR$/temp/bilibili.min.js" />
+        <option value="C:/work/java/workspace/erp/WebRoot/login_pc_new.jsp" />
+        <option value="$PROJECT_DIR$/html/测试avalon动态切面.html" />
+        <option value="$PROJECT_DIR$/html/Lottery_demo.html" />
+        <option value="$PROJECT_DIR$/html/lottery_demo.html" />
+        <option value="$PROJECT_DIR$/js/com.qw4wer.utils.js" />
+        <option value="$PROJECT_DIR$/userscript/bilibili_live_tools.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userscript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telefile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qw4wer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://static.hdslb.com/live-static/live-room/live-room.bundle.js" />
+      <recent name="http://static.hdslb.com/live-static/live-room/live-room.bundle.min.js" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="svn" revision="29">C:\me\js\qw4wer\js\com.qw4wer.utils.js</PATH>
+          <PATH vcs="svn" revision="29">C:\me\js\qw4wer\userscript\bilibili_live_tools.js</PATH>
+          <PATH vcs="svn" revision="29">C:\me\js\qw4wer\html\����avalon��̬����.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.测试avalon动态切面.html">
+    <configuration default="false" name="测试avalon动态切面.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/qw4wer/html/测试avalon动态切面.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.测试avalon动态切面.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.测试avalon动态切面.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\qw4wer\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="UPDATE_DEPTH" value="infinity" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\me\js\qw4wer" />
+          <option name="myCopyRoot" value="C:\me\js\qw4wer" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\me\js\qw4wer" />
+          <option name="myCopyRoot" value="C:\me\js\qw4wer" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7605b794-4ef1-437c-a3f6-3dc105f3c4ff" name="Default" comment="" />
+      <created>1451987890929</created>
+      <option name="number" value="Default" />
+      <updated>1451987890929</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1451988404148</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1451988404148</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1452060631292</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1452060631292</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1453456938862</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1453456938863</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1453865049687</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1453865049687</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1453966221359</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1453966221359</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1453966271634</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1453966271634</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1454061818122</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1454061818122</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1454666265342</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1454666265342</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1454688492793</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1454688492793</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1455586493868</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1455586493868</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1455617327409</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1455617327410</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1455710309446</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1455710309446</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1455789712366</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1455789712366</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17678571" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.50476193" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40720525" sideWeight="0.4952381" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49392712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>mock:///</url>
+          <line>26</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html/bili.live.full.screen.danmu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/闭包测试1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/bilibili.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2039" column="10" selection-start-line="2039" selection-start-column="10" selection-end-line="2039" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/t3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/测试avalon动态切面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/tmp1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#t#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/com.qw4wer.utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userscript/bilibili_live_tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+            <marker date="1456306336842" expanded="true" signature="772:793" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/live-room.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3746" column="62" selection-start-line="3746" selection-start-column="53" selection-end-line="3746" selection-end-column="62" />
+          <folding>
+            <marker date="1454316072148" expanded="true" signature="20183:20194" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="20274:20286" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="20420:20518" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="172731:173153" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175028:175042" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175580:175594" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175718:175750" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="178934:178945" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="200698:200723" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="200877:200921" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="201078:201120" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="201159:201204" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="247392:247532" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="247545:247583" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258405:258436" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258631:258642" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258986:259002" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259074:259085" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259498:259509" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259574:259585" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259659:259745" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307351:307365" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307443:307459" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307537:307551" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307961:307995" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="308037:308052" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="308920:308934" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309012:309028" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309106:309120" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309377:309388" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309572:309606" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309648:309663" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="366383:366437" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372089:372143" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372271:372283" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372350:372395" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="382930:382985" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383149:383165" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383212:383226" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383300:383318" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383353:383367" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383413:383427" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="385918:386045" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386100:386113" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386195:386250" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386453:386465" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386569:386614" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="387203:387217" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="387273:387287" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="401614:401623" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427651:427661" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427711:427721" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427773:427787" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427833:427847" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="428023:428038" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="439828:439842" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="440442:440456" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="440837:440848" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="441236:441250" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="446834:446849" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/t2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://static.hdslb.com/live-static/live-room/live-room.bundle.js">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bili.live.full.screen.danmu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/bili.live.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2132" column="34" selection-start-line="2132" selection-start-column="30" selection-end-line="2132" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/t1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/t3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userscript/bilibili_live_tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+            <marker date="1456306336842" expanded="true" signature="772:793" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userscript/exhentai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="96" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="56" />
+          <folding>
+            <marker date="1455586471561" expanded="true" signature="2247:2255" placeholder="{...}" />
+            <marker date="1455586471561" expanded="true" signature="2275:2512" placeholder="{...}" />
+            <marker date="1455586471561" expanded="true" signature="2299:2507" placeholder="{&quot;method&quot;: &quot;get&quot;...}" />
+            <marker date="1455586471561" expanded="true" signature="2447:2501" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/avalon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="793" column="86" selection-start-line="793" selection-start-column="86" selection-end-line="793" selection-end-column="86" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/t2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/live-room.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="99" selection-start-line="31" selection-start-column="99" selection-end-line="31" selection-end-column="99" />
+          <folding>
+            <marker date="1454316072148" expanded="true" signature="20183:20194" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="20274:20286" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="20420:20518" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="172731:173153" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175028:175042" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175580:175594" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175718:175750" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="178934:178945" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="200698:200723" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="200877:200921" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="201078:201120" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="201159:201204" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="247392:247532" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="247545:247583" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258405:258436" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258631:258642" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258986:259002" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259074:259085" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259498:259509" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259574:259585" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259659:259745" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307351:307365" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307443:307459" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307537:307551" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307961:307995" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="308037:308052" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="308920:308934" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309012:309028" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309106:309120" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309377:309388" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309572:309606" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309648:309663" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="366383:366437" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372089:372143" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372271:372283" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372350:372395" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="382930:382985" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383149:383165" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383212:383226" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383300:383318" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383353:383367" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383413:383427" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="385918:386045" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386100:386113" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386195:386250" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386453:386465" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386569:386614" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="387203:387217" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="387273:387287" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="401614:401623" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427651:427661" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427711:427721" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427773:427787" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427833:427847" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="428023:428038" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="439828:439842" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="440442:440456" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="440837:440848" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="441236:441250" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="446834:446849" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userscript/remove_bilibili_live_gift_message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/tmp1_dynamicExecScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/tmp1_dynamicExecScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/bilibili_live_tools_options.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.75">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userscript/remove_bilibili_live_gift_message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/souce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3220339">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://static.hdslb.com/live-static/live-room/live-room.bundle.min.js">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/bilib_json_to_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="223.92857">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userscript/exhentai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="56" />
+          <folding>
+            <marker date="1455586471561" expanded="true" signature="2247:2255" placeholder="{...}" />
+            <marker date="1455586471561" expanded="true" signature="2275:2512" placeholder="{...}" />
+            <marker date="1455586471561" expanded="true" signature="2299:2507" placeholder="{&quot;method&quot;: &quot;get&quot;...}" />
+            <marker date="1455586471561" expanded="true" signature="2447:2501" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/bili.live.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2132" column="34" selection-start-line="2132" selection-start-column="30" selection-end-line="2132" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/t1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.392857">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/live-room.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3746" column="62" selection-start-line="3746" selection-start-column="53" selection-end-line="3746" selection-end-column="62" />
+          <folding>
+            <marker date="1454316072148" expanded="true" signature="20183:20194" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="20274:20286" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="20420:20518" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="172731:173153" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175028:175042" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175580:175594" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="175718:175750" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="178934:178945" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="200698:200723" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="200877:200921" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="201078:201120" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="201159:201204" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="247392:247532" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="247545:247583" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258405:258436" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258631:258642" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="258986:259002" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259074:259085" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259498:259509" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259574:259585" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="259659:259745" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307351:307365" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307443:307459" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307537:307551" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="307961:307995" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="308037:308052" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="308920:308934" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309012:309028" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309106:309120" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309377:309388" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309572:309606" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="309648:309663" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="366383:366437" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372089:372143" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372271:372283" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="372350:372395" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="382930:382985" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383149:383165" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383212:383226" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383300:383318" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383353:383367" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="383413:383427" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="385918:386045" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386100:386113" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386195:386250" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386453:386465" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="386569:386614" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="387203:387217" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="387273:387287" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="401614:401623" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427651:427661" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427711:427721" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427773:427787" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="427833:427847" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="428023:428038" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="439828:439842" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="440442:440456" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="440837:440848" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="441236:441250" placeholder="..." />
+            <marker date="1454316072148" expanded="true" signature="446834:446849" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://static.hdslb.com/live-static/live-room/live-room.bundle.js">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/t2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telefile/avalon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13483146">
+          <caret line="976" column="38" selection-start-line="976" selection-start-column="38" selection-end-line="976" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Documents/Tencent Files/644380535/FileRecv/销售管理系统login(1)/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5117371">
+          <caret line="467" column="12" selection-start-line="467" selection-start-column="12" selection-end-line="467" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/work/java/workspace/erp/WebRoot/login_pc_new.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66391754">
+          <caret line="170" column="8" selection-start-line="170" selection-start-column="8" selection-end-line="170" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Documents/Tencent Files/644380535/FileRecv/销售管理系统login(1)/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57113403">
+          <caret line="123" column="43" selection-start-line="126" selection-start-column="12" selection-end-line="142" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/tmp1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7392996">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#t#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/bilibili.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03696498">
+          <caret line="2039" column="10" selection-start-line="2039" selection-start-column="10" selection-end-line="2039" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/t3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.061728396">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/闭包测试1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.392857">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/com.qw4wer.utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/lottery_demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.464285">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/测试avalon动态切面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userscript/bilibili_live_tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+            <marker date="1456306336842" expanded="true" signature="772:793" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bili.live.full.screen.danmu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3909465">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
