@@ -12,7 +12,10 @@
 // @grant       unsafeWindow
 // @grant       GM_xmlhttpRequest
 // @grant       GM_addStyle
+// @grant       GM_getResourceText
 // @run-at      document-idle
+
+// @resource    danmuHtml https://raw.githubusercontent.com/qw4wer/qw4wer_js/master/html/bili.live.full.screen.danmu.html
 
 // ==/UserScript==
 //debugger;
@@ -141,7 +144,9 @@ function loadTools() {
 
 
     //弹幕控制初始化
+    var prototypeSource = GM_getResourceText("danmuHtml");
 
+    console.log(prototypeSource);
 
     avalon.scan();
 }
