@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>avalon切面</title>
+    <script src="http://static.hdslb.com/live-static/libs/avalon/avalon-1.5.5.shim.js"></script>
+    <script src="../js/com.qw4wer.utils.js"></script>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script>
+        (function () {
+
+            window.liveRoomFuncs = {};
+
+            avalon.ready(function () {
+                var vm = avalon.define({
+                    $id: 'test',
+                    fn1_event: function () {
+                        console.log("event enter");
+                        vm.$fire("fn1", {name: 'qw4wer'});
+                    }
+
+                });
+
+                var sections;
+                !function () {
+                    handler = function (obj) {
+                        console.dir(obj);
+                    };
+
+                    window.liveRoomFuncs.handler = handler, vm.$watch("fn1", handler);
+                }();
+                sections = section({
+                    object: avalon.vmodels['test'].$events.fn1[0],
+//                    object:  window.liveRoomFuncs,
+
+                    methodName: 'handler',
+                    hasRuturn: true,
+                    preposition: function (arr) {
+                        console.log('start');
+                        return false;
+                    },
+                    postposition: function (arr) {
+                        console.log('end');
+                    }
+                });
+                avalon.scan(document.body, vm);
+            });
+
+
+        })();
+
+
+    </script>
+</head>
+<body>
+
+<div ms-controller="test">
+    <input type="button" ms-on-click="fn1_event"/>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--<script src="../telefile/avalon.js" type="application/javascript"></script>-->
+    <script src="http://cdn.bootcss.com/avalon.js/1.5.5/avalon.js"></script>
+    <script>
+        var vm = avalon.define({
+            $id: "test",
+            array: [1, 2, 3],
+            arr: [{a: 1}, {a: 2}, {a: 3}],
+            obj: {
+                a: 1,
+                b: 2
+            },
+            a: {
+                b: {
+                    c: {
+                        d: 33
+                    }
+                }
+            }
+        })
+        vm.$watch("array.*", function (a, b) {
+            console.log(a);
+            console.log(b);
+        })
+        vm.$watch("arr.*.a", function (a, b) {
+            console.log(a);
+            console.log(b);
+        })
+        vm.$watch("obj.*", function (a, b, c) {
+            console.log(a);
+            console.log(b);
+            console.log(c);
+        })
+        vm.$watch("a.*.c.d", function (a, b, c) {
+            console.log(a);
+            console.log(b);
+            console.log(c);
+        })
+        vm.$watch("*", function (a, b) {
+            debugger;
+        })
+        setTimeout(function () {
+            vm.array.set(1, 6)
+            vm.arr[0].a = 99
+            vm.obj.a = 111
+            vm.a.b.c.d = 88
+        }, 100)
+    </script>
+</head>
+<body>
+</body>
+</html>

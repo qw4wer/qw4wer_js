@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!--suppress JSUnresolvedFunction -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://cdn.bootcss.com/avalon.js/1.5.5/avalon.js"></script>
+    <script>
+        var vm;
+        $(document).ready(function () {
+            var button = $("<input type='button'/>");
+            vm = avalon.define({
+                $id: "tools",
+                event: {},
+                flags: {}
+            });
+            var tools = [{
+                id: "t1",
+                fn: function (e) {
+                    vm.flags.t1 = !vm.flags.t1;
+                }
+            },
+                {
+                    id: "t2",
+                    fn: function (e) {
+                        vm.flags.t2 = !vm.flags.t2;
+                    }
+                }];
+
+            var event = {};
+            var flags = {};
+            for (var i in tools) {
+                button = button.clone();
+
+                button.attr("ms-click", "event." + tools[i].id).attr("ms-duplex", "flags." + tools[i].id);
+                $("#panel").append(button);
+
+                event[tools[i].id] = tools[i].fn;
+                flags[tools[i].id] = false;
+//                vm.$watch("flags.*", function (a, b, name) {
+//                    debugger;
+//                    console.dir({new: a, old: b, name: name});
+//                })
+                    (function(n){
+                        vm.$watch("flags."+tools[n].id,function(e){
+                            console.log(e?"true":"false");
+                        });
+                    })(i);
+
+            }
+            vm.event = event;
+            vm.flags = flags;
+            avalon.scan()
+        });
+        function clone(obj) {
+            var o;
+            if (typeof obj == "object") {
+                if (obj === null) {
+                    o = null;
+                } else {
+                    if (obj instanceof Array) {
+                        o = [];
+                        for (var i = 0, len = obj.length; i < len; i++) {
+                            o.push(clone(obj[i]));
+                        }
+                    } else {
+                        o = {};
+                        for (var k in obj) {
+                            o[k] = clone(obj[k]);
+                        }
+                    }
+                }
+            } else {
+                o = obj;
+            }
+            return o;
+        }
+    </script>
+</head>
+<body>
+<div id="panel" ms-controller='tools'>
+
+
+</div>
+
+</body>
+</html>

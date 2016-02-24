@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>闭包测试页面1</title>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script>
+
+        function handel(msg) {
+            return msg;
+        }
+
+        var obj = {
+            str: 'hello',
+            handel: function (msg) {
+                return this.str + " " + msg;
+            }
+        }
+
+        function section(options) {
+            var defaults = {
+                object: window,
+                methodName: '',
+                preposition: '',
+                prepositionArg: [],
+                postposition: '',
+                postpositionArg: [],
+                hasRuturn: false,
+
+            };
+            options = $.extend(defaults, options);
+
+            function executeFn(fn, fnArg) {
+
+                if (fn != "" && typeof fn == "function") {
+
+                    if (fnArg != undefined && fnArg.length > 0) {
+
+                        var argLength = fnArg.length;
+                        var arr = new Array([argLength]);
+                        $(fnArg).each(function (index) {
+                            arr[index] = fnArg[index];
+                        });
+                        return fn.apply(fn, arr);
+                    } else {
+
+                        return fn();
+                    }
+                }
+            }
+
+
+            var exist = options.object[options.methodName];
+            var previous = function () {
+                return exist.apply(options.object, arguments);
+            };
+            var advised = function advice() {
+                var res = undefined;
+                if (options.preposition != '' && typeof(options.preposition) == 'function') {
+                    if (executeFn(options.preposition, options.prepositionArg)) {
+                        console.log('stop');
+                        return;
+                    }
+                }
+                res = previous.apply(this, arguments);
+                if (options.postposition != '' && typeof(options.postposition) == 'function') {
+                    executeFn(options.postposition, options.postpositionArg);
+                }
+                return options.hasRuturn === true ? res : undefined;
+            }
+            options.object[options.methodName] = function () {
+                return advised ? advised.apply(options.object, arguments) : previous.apply(options.object, arguments);
+            };
+
+            return {
+                remove: function () {
+                    advised = null;
+                    advice = null;
+                }
+            }
+
+
+        }
+
+
+        $(document).ready(function () {
+            var sections = section({
+                object: obj,
+                methodName: 'handel',
+                hasRuturn: true,
+                preposition: function () {
+                    console.log('start');
+                    return false;
+                },
+                postposition: function () {
+                    console.log('end');
+                }
+
+            });
+            console.log(obj.handel("world"));
+            sections.remove();
+            console.log(obj.handel("world"));
+
+//            s.remove();
+//            console.log(handel("test"));
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>

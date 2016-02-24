@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        @-webkit-keyframes move-in-left {
+            0% {
+                left: 99%;
+            }
+            100% {
+                left: 0%;
+                visibility: hidden;
+            }
+        }
+
+        .danmu {
+            animation-name: move-in-left;
+            -webkit-animation-duration: 5s; /*动画持续的时间长*/
+            -webkit-animation-iteration-count: 1; /*动画循环播放的次数为1 infinite为无限次*/
+            -webkit-animation-timing-function: linear;
+            -webkit-animation-fill-mode: both;
+            position: absolute;
+            width: 50%;
+            font-size: 12px;
+        }
+
+        .danmu-hidden {
+            visibility: hidden;
+            /*opacity:0;*!*/
+        }
+
+        .danmu-text {
+            left: 50%;
+            display: block;
+            position: absolute;
+            width: 48%;
+            height: 200px
+        }
+
+        .danmu-area {
+            width: 48%;
+            height: 200px;
+            border: 1px solid #F00;
+            position: absolute
+        }
+    </style>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src='http://cdn.bootcss.com/avalon.js/1.5.5/avalon.js'></script>
+    <script>
+    </script>
+    <script>
+        (function () {
+            var vm = avalon.define({
+                $id: 'my_tools_danmu',
+                fontSize: 12,
+                arr: [],
+                maxTop: 200,
+                getRationalTop: function getRationalTop() {
+                    return vm.arr.indexOf(Math.min.apply(null, vm.arr));
+                },
+                inputEvent: function (event) {
+                    event.keyCode === 13 && vm.send(event);
+                },
+                send: function (event) {
+                    var top = vm.getRationalTop();
+                    var text = $(event.srcElement).val();
+
+                    $(event.srcElement).val("");
+                    if ($("#danmuArea .danmu-hidden").size() === 0) {
+                        var msg = $("<div class='danmu' ></div>");
+                        msg.addClass("danmu").html(text).css({top: top * vm.fontSize});
+                        vm.arr[top] = vm.arr[top] + 1 || 1;
+                        $("#danmuArea").append(msg);
+                    } else {
+                        msg = $("#danmuArea .danmu-hidden:first");
+                        msg.addClass("danmu").html(text).removeClass("danmu-hidden").css({top: top * vm.fontSize});
+                        vm.arr[top] = vm.arr[top] + 1 || 1;
+                    }
+                    msg.unbind().bind('webkitAnimationEnd', function (event) {
+                        $(this).addClass("danmu-hidden").removeClass("danmu");
+                        vm.arr[Math.ceil($(this).css('top').substring(0, $(this).css('top').indexOf("p")) / vm.fontSize)]--;
+                    });
+                },
+                init: function () {
+                    for (var i = 0; i < Math.ceil(vm.maxTop / vm.fontSize); i++) {
+                        vm.arr[i] = 0;
+                    }
+                }
+            });
+
+            vm.init();
+        })();
+
+    </script>
+</head>
+<body>
+
+<div ms-controller="my_tools_danmu">
+    <textarea id="danmuTextArea" ms-keyup="inputEvent" ms-on-input="inputEvent" class="danmu-text"></textarea>
+    <div id="danmuArea" class="danmu-area">
+
+    </div>
+</div>
+</body>
+</html>

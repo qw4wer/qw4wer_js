@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://cdn.bootcss.com/avalon.js/1.5.5/avalon.js"></script>
+    <script>
+        (function () {
+            var arr = ['t1', 't2'];
+            vm = avalon.define({
+                $id: 'test'
+
+            });
+            for (var i in arr) {
+                (function (e) {
+                    vm.$watch(arr[e], function (t) {
+                        console.log(t);
+                    })
+                })(i)
+            }
+
+        })();
+        function t1() {
+            vm.$fire('t1', 't1');
+        }
+        function t2() {
+            vm.$fire('t2', 't2');
+        }
+    </script>
+</head>
+<body>
+<input type="button" onclick="t1()">
+<input type="button" onclick="t2()">
+</body>
+</html>
